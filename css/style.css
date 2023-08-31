@@ -282,6 +282,7 @@ padding-left: 40px;
 
 .ourtask-obay-right {
 position: relative;
+z-index: 2;
 }
 
 .ourtask-obay-right img {
