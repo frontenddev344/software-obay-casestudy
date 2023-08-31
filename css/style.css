@@ -425,24 +425,15 @@ line-height: normal;
 .typography_left_child ul li:nth-child(3) {
 padding-left: 44px;
 }
-.typography_left_child h3{
-color: #031C38);
-font-family: Montserrat;
-font-size: 24px;
+
+.typography_left h2 {
+color: #031C38;
 font-style: normal;
-font-weight: 600;
+font-weight: 700;
 line-height: normal;
-padding-bottom: 35px;
 }
-.typography_right_child h3{
-color: #031C38);
-font-family: Montserrat;
-font-size: 24px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-padding-bottom: 43px;
-}
+
+
 .typography_left_child {
 padding-top: 80px;
 }
