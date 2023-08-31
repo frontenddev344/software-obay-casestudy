@@ -1,0 +1,24 @@
+<svg width="30" height="24" viewBox="0 0 30 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="30" height="24" fill="#F5F5F5"/>
+<g id="case_study_obay" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="8257" transform="translate(-1350 -44)" fill="white"/>
+<g id="first screen">
+<g id="Group 4927">
+<rect id="Rectangle 428" x="-1350" y="-44" width="1440" height="750" fill="white"/>
+</g>
+</g>
+<g id="menu">
+<rect width="1440" height="112" transform="translate(-1350 -44)" fill="white"/>
+<g id="Group 547">
+<rect id="Rectangle 109" x="9" width="21" height="2" fill="#031C38"/>
+<rect id="Rectangle 110" y="11" width="30" height="2" fill="#031C38"/>
+<rect id="Rectangle 111" y="22" width="21" height="2" fill="#031C38"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="8257" fill="white" transform="translate(-1350 -44)"/>
+</clipPath>
+</defs>
+</svg>

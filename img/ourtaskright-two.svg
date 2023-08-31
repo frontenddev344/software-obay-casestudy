@@ -1,0 +1,19 @@
+<svg width="24" height="29" viewBox="0 0 24 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="29" fill="#F5F5F5"/>
+<g id="case_study_obay" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="8257" transform="translate(-540 -1648)" fill="white"/>
+<g id="tasks">
+<path id="Rectangle 428" d="M-540 -179H900V344C338 435 -3 173.5 -540 344V-179Z" fill="#4D3529"/>
+</g>
+<g id="Frame 4961">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M0.175373 13.5924C0.406708 10.7437 1.15996 8.06899 2.92488 5.80949C5.00317 3.1488 7.38701 0.0107669 10.7848 0.00987223C14.184 0.00897694 16.3182 3.36624 18.6637 5.80534C20.9215 8.15316 23.4551 10.3989 23.8675 13.6144C24.3296 17.2175 23.3725 20.9577 20.9572 23.6876C18.3926 26.5864 14.6733 28.5911 10.7848 28.4014C7.02756 28.2181 3.72782 25.781 1.54992 22.741C-0.323276 20.1264 -0.0840127 16.7865 0.175373 13.5924Z" fill="#EC7234"/>
+</g>
+<g id="filters">
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="8257" fill="white" transform="translate(-540 -1648)"/>
+</clipPath>
+</defs>
+</svg>
